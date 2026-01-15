@@ -521,7 +521,7 @@ mvn test
 
 📧 **Connect with me:**
 - **GitHub**: [@sahil-mk32](https://github.com/sahil-MK2)
-- **LinkedIn**: [Sahil Bhoyar](www.linkedin.com/in/sahil-bhoyar-4a123b1b0)
+- **LinkedIn**: [Sahil Bhoyar](https://www.linkedin.com/in/sahil-bhoyar-4a123b1b0)
 
 ---
 
